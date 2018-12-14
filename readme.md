@@ -34,9 +34,6 @@
 - [x] [README.md](README.md)
 - [ ] [Docs.md](Docs.zh.md)
 - [ ] [Roadmap.md](Roadmap.zh.md)
-- [ ] [tests/README.md](tests/README.zh.md)
-- [ ] [tools/ts_library_builder/README.md](tools/ts_library_builder/README.zh.md)
-- [ ] [website/README.md](website/README.zh.md)
 
 ### 贡献
 
