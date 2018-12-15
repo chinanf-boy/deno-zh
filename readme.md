@@ -15,25 +15,24 @@
 
 ---
 
-## 校对 🀄️
+## 校对 ✅
 
 <!-- doc-templite START generated -->
 <!-- repo = 'denoland/deno' -->
-<!-- commit = 'c2663e1d82521e9b68a7e2e96197030a4ee00c30' -->
-<!-- time = '2018-09-10' -->
-
-| 翻译的原文 | 与日期        | 最新更新 | 更多                       |
-| ---------- | ------------- | -------- | -------------------------- |
-| [commit]   | ⏰ 2018-09-10 | ![last]  | [中文翻译][translate-list] |
+<!-- commit = '0bb43ebbfcbc378810f75c43a2be3369729921f7' -->
+<!-- time = '2018-12-14' -->
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018-12-14 | ![last] | [中文翻译][translate-list]
 
 [last]: https://img.shields.io/github/last-commit/denoland/deno.svg
-[commit]: https://github.com/denoland/deno/tree/c2663e1d82521e9b68a7e2e96197030a4ee00c30
+[commit]: https://github.com/denoland/deno/tree/0bb43ebbfcbc378810f75c43a2be3369729921f7
 
 <!-- doc-templite END generated -->
 
 - [x] [README.md](README.md)
-- [ ] [Docs.md](Docs.zh.md)
-- [ ] [Roadmap.md](Roadmap.zh.md)
+- [x] [Docs.md](Docs.zh.md)
+- [x] [Roadmap.md](Roadmap.zh.md)
 
 ### 贡献
 
